@@ -6,6 +6,9 @@ this project enables us to learn code control using git.
 ## Purpose
 to have code we can use for hands on exercises. we are also using this to see how rebasing and merging works.
 
+##Conflict on ConflictBranch
+This section is now different on the conflictbranch as soon as we save, close, add, and commit it.
+
 ##Conflict on Master
 this section will be different on the conflictbranch.
 ##Method
