@@ -1,0 +1,17 @@
+# 424-web-example
+Learning example repository for ISOM 424 students.
+
+## introduction
+this project enables us to learn code control using git.
+## Purpose
+to have code we can use for hands on exercises. we are also using this to see how rebasing and merging works.
+<<<<<<< HEAD
+
+##Conflict on Master
+this section will be different on the conflictbranch.
+##Method
+how will we resolve this conflict, since the "base" now has a conflict in it?
+=======
+##Conflict on ConflictBranch
+This section is now different on the conflictbranch as soon as we save, close, add, and commit it.
+>>>>>>> conflict in README.md created on conflictbranch
